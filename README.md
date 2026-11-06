@@ -50,7 +50,7 @@ Aplikasi ini dikembangkan sebagai proyek Ujian Tengah Semester (UTS) mata kuliah
 1. Clone repository menggunakan perintah berikut:
 
    ```bash
-   git clone https://github.com/USERNAME/NAMA-REPOSITORY.git
+   git clone https://github.com/azizraihanKh/PROYEK_UTS_PAM.git
    ```
 
 2. Buka Android Studio.
@@ -65,17 +65,46 @@ Aplikasi ini dikembangkan sebagai proyek Ujian Tengah Semester (UTS) mata kuliah
 
 ---
 
-| Splash Screen | Sign Up / Welcome |
-|:---:|:---:|
-| <img src="screenshots/splash.jpeg" width="180"> | <img src="screenshots/signup.jpeg" width="180"> |
-| **Register** | **Login** |
-| <img src="screenshots/register.jpeg" width="180"> | <img src="screenshots/login.jpeg" width="180"> |
-| **Home** | **Keranjang** |
-| <img src="screenshots/home.jpeg" width="180"> | <img src="screenshots/cart.jpeg" width="180"> |
-| **Order** | **Konfirmasi Pesanan** |
-| <img src="screenshots/order.jpeg" width="180"> | <img src="screenshots/confirmation.jpeg" width="180"> |
-| **Profil** | **Edit Profil** |
-| <img src="screenshots/profile.jpeg" width="180"> | <img src="screenshots/edit_profile.jpeg" width="180"> |
+## 📱 Screenshot Tampilan Aplikasi
+
+<table width="100%">
+  <tr>
+    <th>Splash Screen</th>
+    <th>Sign Up / Welcome</th>
+    <th>Register</th>
+    <th>Login</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/splash.jpeg" width="100%"></td>
+    <td><img src="screenshots/signup.jpeg" width="100%"></td>
+    <td><img src="screenshots/register.jpeg" width="100%"></td>
+    <td><img src="screenshots/login.jpeg" width="100%"></td>
+  </tr>
+  <tr>
+    <th>Home</th>
+    <th>Keranjang</th>
+    <th>Order</th>
+    <th>Konfirmasi Pesanan</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/home.jpeg" width="100%"></td>
+    <td><img src="screenshots/cart.jpeg" width="100%"></td>
+    <td><img src="screenshots/order.jpeg" width="100%"></td>
+    <td><img src="screenshots/confirmation.jpeg" width="100%"></td>
+  </tr>
+  <tr>
+    <th>Profile</th>
+    <th>Edit Profile</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/profile.jpeg" width="100%"></td>
+    <td><img src="screenshots/edit_profile.jpeg" width="100%"></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
