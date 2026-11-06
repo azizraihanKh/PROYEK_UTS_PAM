@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cream">#FFF4E6</color>
+    <color name="peach">#FFD6A5</color>
+    <color name="orange">#F6A65B</color>
+    <color name="brown">#6F4934</color>
+    <color name="light_brown">#98745C</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
