@@ -59,9 +59,6 @@ Aplikasi ini dikembangkan sebagai proyek Ujian Tengah Semester (UTS) mata kuliah
 5. Hubungkan perangkat Android melalui USB atau jalankan Android Emulator.
 6. Klik tombol **Run** untuk menjalankan aplikasi.
 
----
-
-## 📱 Screenshot Tampilan Aplikasi
 
 ---
 
